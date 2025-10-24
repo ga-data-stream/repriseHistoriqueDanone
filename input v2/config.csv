@@ -1,0 +1,13 @@
+variable;value
+INPUT_CSV;input v2/input.csv
+MAPPING_XLSX;input v2/mapping.xlsx
+OUTPUT_TEMPLATE;Template Output.xlsx
+OUTPUT_XLSX;input v2/output.xlsx
+SHEET_DESTINATION;Mapping_Destination
+SHEET_ENTITY;Mapping Entities
+SHEET_FUNCTIONAL_AREA;Mapping Functionnal Area
+CURRENCY_DEFAULT;EUR
+MASTER_DATA_FILE;input v2/Master data.xlsx
+MASTER_SHEET;destination
+MASTER_DEST_COL_NAME;destination
+QUALITY_LOG_CSV;QualitycheckFile.csv

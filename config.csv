@@ -1,0 +1,9 @@
+variable;value
+INPUT_CSV;input.csv
+MAPPING_XLSX;mapping.xlsx
+OUTPUT_TEMPLATE;Template Output.xlsx
+OUTPUT_XLSX;outputv8.xlsx
+SHEET_DESTINATION;Mapping_Destination
+SHEET_ENTITY;Mapping Entities
+SHEET_FUNCTIONAL_AREA;Mapping Functionnal Area
+CURRENCY_DEFAULT;EUR
